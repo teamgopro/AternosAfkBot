@@ -1,9 +1,9 @@
 {
-	"ip":"smponlyfriends.aternos.me",
-	"port": 50604,
-	"name": "MR_MR11",
+	"ip":"hobbitcrafters.aternos.me",
+	"port": 26243,
+	"name": "Hobbitcrafters",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register MR_MR121 MR_MR121",
-	"login-cmd":"/login MR_MR121"
+	"register-cmd":"/register hobbit hobbit",
+	"login-cmd":"/login hobbit"
 }
